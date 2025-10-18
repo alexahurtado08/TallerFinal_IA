@@ -1,0 +1,9 @@
+streamlit
+easyocr
+opencv-python
+pillow
+python-dotenv
+groq
+huggingface_hub
+requests
+numpy

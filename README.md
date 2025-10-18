@@ -71,6 +71,8 @@ Permite cargar una imagen, extraer su texto mediante OCR y procesarlo con modelo
    ```bash
    streamlit run app.py
 
+Si deseas acceder desde la web tambien puedes ingresar al link 
+https://tallerfinalia.streamlit.app/ 
 ---
 # Uso de la aplicación
 

@@ -116,7 +116,7 @@ Algunas cosas que se podrían integrar serían:
 - Creación de imágenes a partir del texto.
 - Expansión de la idea principal.
 - Generación de textos tipo poesía a partir del texto extraído.
-- 
+  
 
 
 

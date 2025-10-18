@@ -33,7 +33,7 @@ cliente_hf = InferenceClient(token=hf_api_key)
 # -----------------------------------------
 st.set_page_config(page_title="Taller IA: OCR + LLM", page_icon="🤖")
 st.title("🧠 Taller IA: OCR + LLM")
-st.caption("Universidad EAFIT | Profesor: Jorge Padilla | Proyecto: Aplicación Multimodal con OCR y LLMs")
+st.caption("Universidad EAFIT | Alumnos: Alexandra Hurtado y Mariana Valderrama | Proyecto: Aplicación Multimodal con OCR y LLMs")
 
 # -----------------------------------------
 # MÓDULO 1: OCR
